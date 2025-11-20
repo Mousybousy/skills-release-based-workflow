@@ -55,6 +55,9 @@ body {
     background-color: black;
 }
 ```
+body {
+    background-color: black;
+}
 
 1. Open a pull request with `release-v1.0` as the `base` branch, and your new branch as the `compare` branch.
 1. Fill in the pull request template to describe your changes.
